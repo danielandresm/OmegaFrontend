@@ -1,6 +1,4 @@
-# Full Stack Book To Do Next.js
 
-https://www.fullstackbook.com/docs/projects/todo/frontend/nextjs
 
 ## Setup
 
